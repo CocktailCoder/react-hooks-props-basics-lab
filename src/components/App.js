@@ -18,7 +18,8 @@ function App() {
       />
  
       <About 
-      bio = {user.bio}
+      
+      bio = {user.bio} 
       github = {user.links.github}
       linkedin = {user.links.linkedin}
       />
